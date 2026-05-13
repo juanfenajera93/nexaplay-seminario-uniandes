@@ -150,8 +150,8 @@ Respuesta:
 
 | Servicio | Plataforma | URL |
 |---|---|---|
-| API (FastAPI) | Render | _pendiente_ |
-| Dashboard (Streamlit) | Streamlit Cloud | _pendiente_ |
+| API (FastAPI) | Render | https://nexaplay-seminario-uniandes.onrender.com |
+| Dashboard (Streamlit) | Streamlit Cloud | https://nexaplay-seminario-uniandes-dbp6ejaffslvnqtjt9lcev.streamlit.app |
 
 ---
 
