@@ -543,7 +543,7 @@ with tab4:
  
         # la api debe estar corriendo en local antes de abrir el dashboard
         # en producción esta url cambiará a la de Render
-        API_URL = "http://localhost:8000/predict"
+        API_URL = "https://nexaplay-seminario-uniandes.onrender.com/predict"
  
         try:
             # requests.post: envía el payload como JSON al endpoint /predict
